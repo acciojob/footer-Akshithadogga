@@ -1,1 +1,17 @@
 /* your code here */
+.content{
+	background-color:black;
+	color:white;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
+.media-icons{
+	display:flex;
+	gap:15px;
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+}
